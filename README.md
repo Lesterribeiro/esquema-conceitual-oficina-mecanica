@@ -8,7 +8,6 @@ Projeto de arquitetura de banco de dados relacional desenvolvido para o controle
 ## Diagrama Entidade-Relacionamento (DER)
 
 ![Diagrama Entidade Relacionamento Oficina](./diagrams/DER-Oficina-Mecanica.png)
-<img width="797" height="932" alt="DER-Oficina-Mecanica" src="https://github.com/user-attachments/assets/7c9c1a6e-4e88-4054-96d2-4ff4118ca694" />
 
 ---
 
